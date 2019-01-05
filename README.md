@@ -8,7 +8,7 @@ Based on [geoip2-golang v1.2.1](https://github.com/oschwald/geoip2-golang)
 go get https://github.com/cc14514/go-geoip2-db
 ```
 
-### gx hash table 
+### gx support
 
 * 0.0.1 : QmaotkvehotV6Yvn8roarKxN96v6cnGmdKrHn3PW6BkiiV
 

@@ -6,7 +6,7 @@
   "language": "golang",
   "license": "",
   "bugs": {
-    "url": "https://github.com/cc14514/go-geoip2/issues"
+    "url": "https://github.com/cc14514/go-geoip2-db/issues"
   },
   "gxVersion": "0.14.0"
 }

@@ -1,13 +1,15 @@
 {
-  "name": "go-geoip2-db",
   "author": "liangc",
-  "version": "0.0.1",
-  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "language": "golang",
-  "license": "",
   "bugs": {
     "url": "https://github.com/cc14514/go-geoip2-db/issues"
   },
-  "gxVersion": "0.14.0"
+  "gxDependencies": [
+  ],
+  "gxVersion": "0.14.0",
+  "language": "golang",
+  "license": "",
+  "name": "go-geoip2-db",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.1"
 }
 
